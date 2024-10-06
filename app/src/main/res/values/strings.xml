@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">SegundoProjeto_equacao2grau</string>
+    <string name="primeironum" >1° Número (decimal)</string>
+    <string name="segundonum" >2° Número (decimal)</string>
+    <string name="terceironum" >3° Número (decimal)</string>
+    <string name="calcular" >Calcular</string>
+    <string name="primeiroX" >X1 =</string>
+    <string name="segundoX" >X2 =</string>
+    <string name="delta" >Delta =</string>
+    <string name="semRaizes" >Não há raizes reais ou não é uma equação de 2° grau.</string>
+
+
+</resources>
